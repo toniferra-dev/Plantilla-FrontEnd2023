@@ -1,0 +1,24 @@
+/* TEAM */
+
+Developer: Juan Pérez
+Contact: juan.perez@example.com
+Twitter: @juanperez
+Location: Madrid, España
+
+Designer: María García
+Contact: maria.garcia@example.com
+Twitter: @mariagarcia
+Location: Barcelona, España
+
+/* THANKS */
+
+Thanks to:
+
+* [Lista de agradecimientos]
+
+/* SITE */
+
+Last update: 2023-07-20
+Language: Spanish
+Doctype: HTML5
+Components: React, Redux, Material UI
